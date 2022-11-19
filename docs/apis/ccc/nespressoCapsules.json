@@ -1,0 +1,176 @@
+[
+  {
+    "id": "bb0a7d18-5229-4f80-bd9c-1a347cbc2237",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Capriccio",
+    "sizes": ["S"]
+  },
+  {
+    "id": "86057843-7507-4e91-b232-2ba47bc91a87",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Volluto",
+    "sizes": ["S"]
+  },
+  {
+    "id": "afb72a8f-6096-4096-ad7d-0d4aed343adf",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Cosi",
+    "sizes": ["S"]
+  },
+  {
+    "id": "ceb556b1-637c-46a8-93c3-d85cf66eba7e",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Caramel Creme Brulee",
+    "sizes": ["S"]
+  },
+  {
+    "id": "483637af-4d6b-4203-a974-17a483c87c2a",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Vanilla Eclair",
+    "sizes": ["S"]
+  },
+  {
+    "id": "1a4bbd05-c994-491b-85b7-d377cc703786",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Cocoa Truffle",
+    "sizes": ["S"]
+  },
+  {
+    "id": "0a020d56-f3b1-4624-8bd1-8baa9a26d5a2",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Scuro",
+    "sizes": ["L"]
+  },
+  {
+    "id": "6db47019-d697-4d94-b92d-60c42527c6a9",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Chiaro",
+    "sizes": ["L"]
+  },
+  {
+    "id": "3a214f1f-3344-44ce-9657-4dc085f7b529",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Corto",
+    "sizes": ["R"]
+  },
+  {
+    "id": "6e164229-762c-4fe3-90e0-275a2250a4f9",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Istambul",
+    "sizes": ["S"]
+  },
+  {
+    "id": "7c980193-545e-4c78-bdb0-5cebeb81aa55",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Paris",
+    "sizes": ["S"]
+  },
+  {
+    "id": "782bb3af-ac6b-447e-997a-d7802a72a2b1",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Rio de Janeiro",
+    "sizes": ["S"]
+  },
+  {
+    "id": "f61e3871-40f8-4f23-abb7-2124c912137c",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Cape Town Envivo Lungo",
+    "sizes": ["L"]
+  },
+  {
+    "id": "4a1e4f8a-aeb3-4484-8511-9b692c238179",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Stockholm Fortissio Lungo",
+    "sizes": ["L"]
+  },
+  {
+    "id": "e4782308-79f0-4b74-810a-3181e3c54cd3",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Tokyo Vivalto Lungo",
+    "sizes": ["L"]
+  },
+  {
+    "id": "8a4eb81b-429c-43dd-8530-fb7734afb18a",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Buenos Aires Lungo",
+    "sizes": ["L"]
+  },
+  {
+    "id": "8d9c8bd5-0428-4274-a1ac-7e7d01acfbe9",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Shanghai Lungo",
+    "sizes": ["L"]
+  },
+  {
+    "id": "687a7fea-c58e-4ca3-9851-9702b9a91bff",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Napoli",
+    "sizes": ["S"]
+  },
+  {
+    "id": "3502eb20-0d85-45da-8075-d0798ee71ab4",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Palermo",
+    "sizes": ["S"]
+  },
+  {
+    "id": "794c6463-4e99-4bd7-9af3-391a849be2ea",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Ristretto Italiano",
+    "sizes": ["S"]
+  },
+  {
+    "id": "fd32f4f7-8753-4a26-a032-53bfb737ee90",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Firenze",
+    "sizes": ["S"]
+  },
+  {
+    "id": "a1668a88-07e2-4a97-a488-02f0d29d0414",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Roma",
+    "sizes": ["S"]
+  },
+  {
+    "id": "8aacdae4-a1f0-4c36-af5f-ed5444740b25",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Venezia",
+    "sizes": ["S"]
+  },
+  {
+    "id": "df163301-8f59-4608-93b6-53c4f6717892",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ispirazione Genova",
+    "sizes": ["S"]
+  },
+  {
+    "id": "4dd957d2-87da-4d91-add2-8d02dc64f49d",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "India",
+    "sizes": ["L"]
+  },
+  {
+    "id": "e8a1912a-f4bf-484a-aa02-7292b088322f",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Indonesia",
+    "sizes": ["L"]
+  },
+  {
+    "id": "e0dd8884-bd50-47c5-ab7b-7704f4097c2a",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Colombia",
+    "sizes": ["L"]
+  },
+  {
+    "id": "1045f45e-480a-41e3-b4a4-67df7e36098d",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Nicaragua",
+    "sizes": ["L"]
+  },
+  {
+    "id": "8e806c85-9a71-40e5-9d43-3b437141a750",
+    "brandId": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0",
+    "name": "Ethiopia",
+    "sizes": ["L"]
+  }
+]

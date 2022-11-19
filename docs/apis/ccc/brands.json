@@ -1,10 +1,4 @@
 [
-    {
-        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
-        "name": "Nespresso",
-    },
-    {
-        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
-        "name": "L'or",
-    }
+  { "id": "a112c430-2899-4fd2-bfc9-ddc02c0aabd0", "name": "Nespresso" },
+  { "id": "d48369b5-0b14-4599-953a-5aaa87f85435", "name": "L'Or" }
 ]
